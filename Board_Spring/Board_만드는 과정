@@ -1,0 +1,8 @@
+DB table 생성 
+DB class 생성 DTO
+DAO 생성 interface로 
+*Mapper.xml 생성
+ root-context.xml 수정 
+DAO 인터페이스 구현
+root-context.xml 에 sqlSession 추가 
+MemberDAOImpl 추가 
